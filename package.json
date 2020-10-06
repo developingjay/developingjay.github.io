@@ -55,6 +55,7 @@
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js' 'src/**/*.md'",
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js",
+    "deploymast":"npm run clean && git status && git add . && git commit -m 'updating blog' && git push",
     "deploylive": "gatsby build && gh-pages -d public -b live"
   }
 }
