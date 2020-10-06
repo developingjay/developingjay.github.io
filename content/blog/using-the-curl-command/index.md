@@ -10,13 +10,13 @@ tags: [cURL, Linux]
 
 A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, MQTT, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
 
-# What is Curl used for?
+# What is cURL used for?
 
 The cURL command is used for web development. It can be used to test and debug servers and APIs.
 
 Instead of typing commands into the command line manually, they can be bundled in scripts. This allows complex operations to be standardized and automated. This includes both uploading and downloading of data and programmatically filling out forms and mirroring entire websites.
 
-# Do I have to install Curl?
+# Do I have to install cURL?
 
 Linux and Windows need to be installed manually. OSX has curl installed by default.
 
