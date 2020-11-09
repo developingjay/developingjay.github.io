@@ -7,8 +7,8 @@
 module.exports = {
   siteName: 'Joshua Scott',
   siteDescription: 'I am cloud engineer who loves to learn.',
-  siteUrl: 'http://developingjay.com',
-  pathPrefix: '/developingjay',
+  siteUrl: 'https://developingjay.com',
+  pathPrefix: '/developingjay.github.io',
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
