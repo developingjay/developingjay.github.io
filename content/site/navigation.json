@@ -1,0 +1,13 @@
+{
+  "footerNavigation": [{
+      "name": "Github",
+      "link": "https://www.github.com/developingjay",
+      "external" : true
+    },
+    {
+      "name": "Twitter",
+      "link": "https://twitter.com/developing_jay",
+      "external": true
+    }
+  ]
+}
