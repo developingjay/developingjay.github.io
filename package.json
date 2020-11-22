@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "build": "gridsome build",
-    "clean":"rimraf .cache node_modules",
+    "clean": "rimraf .cache node_modules",
     "deploy": "gridsome build && gh-pages -d dist",
     "develop": "gridsome develop",
     "explore": "gridsome explore"
